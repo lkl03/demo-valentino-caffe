@@ -1,2 +1,7 @@
-# demo-valentino-caffe
-Demo web para Valentino caffe — diseñada por eterlab.
+# Valentino caffe
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
